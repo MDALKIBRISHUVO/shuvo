@@ -1,4 +1,4 @@
-<h1 align="center"> ICT Shuvo</h1>
+<h1 align="center"> SHUVO ICT </h1>
 <h3 align="center">You can learn HSC ICT from us.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalkibrishuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdalkibrishuvo" /> </p>
